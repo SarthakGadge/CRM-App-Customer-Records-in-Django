@@ -5,7 +5,12 @@
 <body>
     <h1>CRM App</h1>
     <p>A CRM (Customer Relationship Management) application that allows user registration, login, and CRUD (Create, Read, Update, Delete) operations. The application is built with Python, Django, Flask and uses MySQL as the database.</p>
-     
+   
+<h2>Application Screenshots</h2>
+<img src="pics todo CRM/add record.png" alt="Application Screenshot" width="600">
+<img src="pics todo CRM/login.png" alt="Application Screenshot" width="600">
+<img src="pics todo CRM/register.png" alt="Application Screenshot" width="600">
+<img src="pics todo CRM/todolist.png" alt="Application Screenshot" width="600">
 
   <h2>Features</h2>
     <ul>
